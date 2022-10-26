@@ -1,0 +1,48 @@
+
+{
+    "name" : "Radha",
+    "age" : 19,
+    "isProgramming" : false,
+    "hobbies" : ["swimming", "rangoli", "cycling"],
+    "academics" : [{ 
+      "ssc" : 90,
+      "arts" : "A Grade",
+      "good_subj" : ["maths", "c lang", "english"],
+      "isGraduated" : false
+      }]
+  }
+  
+  //students_data is stored 
+  
+  [
+    {
+      "name":"Hrdaya Sonawane",
+      "age":18,
+      "standard":"12th",
+      "isAdult":true
+    },
+    {
+      "name": "Hrdaya Sonawane",
+      "age": 18,
+      "standard": "12th",
+      "isAdult": true
+    },
+    {
+      "name": "Rama Gaikwad",
+      "age": 16,
+      "standard": "10th",
+      "isAdult": false
+    },
+    {
+      "name": "Krishna dharma",
+      "age": 21,
+      "standard": "first year",
+      "isAdult": true
+    },
+    {
+      "name": "Vrinda Sonawane",
+      "age": 17,
+      "standard": "11th",
+      "isAdult": false
+    }
+    ]
